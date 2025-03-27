@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 **Software Engineering Student** passionate about **Web Development andFull Stack Development**.
+- 🎓 **Software Engineering Student** passionate about **Web Development and Full Stack Development**.
 - 🌱 Currently learning **Java Full Stack Development**.
 - 🚀 Working on exciting **projects** and **open-source contributions**.
 - 💡 Always eager to explore **new technologies & best practices**.
